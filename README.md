@@ -1,4 +1,4 @@
-# TelegramRAT-BOT-GUI
+# TelegramBOT-RAT-GUI
 
 # Telegram-RAT (Educational Project)
 
