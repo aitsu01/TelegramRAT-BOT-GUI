@@ -4,8 +4,8 @@
 
 > **Studio di un Remote Access Trojan (RAT) basato su Telegram Bot**
 
-![Linguaggi](https://img.shields.io/badge/language-Python-blue.svg) C2 server
-![Linguaggi](https://img.shields.io/badge/language-C++-yellow.svg)  Client
+C2 server : ![Linguaggi](https://img.shields.io/badge/language-Python-blue.svg) 
+Client : ![Linguaggi](https://img.shields.io/badge/language-C++-yellow.svg) 
 
 
 ## 📖 Panoramica
