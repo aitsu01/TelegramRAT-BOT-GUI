@@ -4,6 +4,10 @@
 
 > **Studio di un Remote Access Trojan (RAT) basato su Telegram Bot**
 
+![Linguaggi](https://img.shields.io/badge/language-Python-blue.svg) C2 server
+![Linguaggi](https://img.shields.io/badge/language-C++-yellow.svg)  Client
+
+
 ## 📖 Panoramica
 
 Questo progetto mostra l'implementazione di un **server C2** in Python con GUI e di un **client in C++**, che comunicano tramite un bot Telegram dedicato. Lo scopo è puramente **educazionale**: comprendere le tecniche di C2 e sfruttamento senza necessità di port forwarding o VPN.
