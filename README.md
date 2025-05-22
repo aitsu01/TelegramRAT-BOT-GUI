@@ -43,7 +43,7 @@ Per vederne il funzionamento, guarda il video su YouTube e consulta le immagini 
 
 * **Video demo**:
 
-  ![Screenshot2](https://github.com/user-attachments/assets/c47f8454-86f1-4cf4-b4a9-abcdf3c1ff38)
+ 
 
 
 https://github.com/user-attachments/assets/e5a2565b-976b-4019-bc75-9378a94a2bc5
@@ -56,7 +56,9 @@ https://github.com/user-attachments/assets/e13eea0e-4028-4ea7-89b6-1b333c0ec7f6
 
 
 
-* **Screenshot**: `docs/screenshots/webcam.png`, `docs/screenshots/gui_overview.png`
+* **Screenshot from Telegram BOT account :
+  ![Screenshot2](https://github.com/user-attachments/assets/ed0a2cda-2c13-4935-9524-5f8bbb561dcd)
+
 
 ## ⚙️ Requisiti e Installazione
 
